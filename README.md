@@ -1,7 +1,7 @@
-![IGT3 Event Global Tech - 05](https://github.com/azophy/awesome-scim/assets/2698551/76995db8-daf4-4180-bccb-6585667f6aaf)Awesome SCIM
+Awesome SCIM
 ============
-List of awesome things about SCIM.
 
+List of awesome things about SCIM.
 From below wikipedia article:
  > System for Cross-domain Identity Management (SCIM) is a standard for automating the exchange of user identity information between identity domains, or IT systems. 
 
