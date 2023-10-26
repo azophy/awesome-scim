@@ -19,16 +19,15 @@ From below wikipedia article:
 - password management: https://datatracker.ietf.org/doc/id/draft-hunt-scim-password-mgmt-00.txt
 - reference implementation: https://github.com/AzureAD/SCIMReferenceCode/wiki
 
-## Extension
-- SCIM over pub-sub NATS : https://elshaug.xyz/docs/scim-stream
-
 ## Tutorials
 - how to build SCIM API: https://techcommunity.microsoft.com/t5/security-compliance-and-identity/provisioning-with-scim-design-build-and-test-your-scim-endpoint/ba-p/1204883
 
 ## Tools & Library
 - bridge between SCIM endpoint and non-scim apps: https://github.com/jelhub/scimgateway
 
-
+## Miscs
+- SCIM over pub-sub NATS : https://elshaug.xyz/docs/scim-stream
+- https://dev.to/grunet/operational-challenges-for-scim-servers-176a
 
 
 
