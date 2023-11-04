@@ -24,6 +24,7 @@ From below wikipedia article:
 
 ## Tools & Library
 - bridge between SCIM endpoint and non-scim apps: https://github.com/jelhub/scimgateway
+- SCIM Playground: https://scim.dev
 
 ## Miscs
 - SCIM over pub-sub NATS : https://elshaug.xyz/docs/scim-stream
